@@ -1,0 +1,7 @@
+com\OG\Controller\Controlador_Ventanaprincipal.class
+com\OG\Views\ventana_principal.class
+com\OG\Models\Operaciones_Cruses.class
+com\OG\Main\Cruses_mendelianos.class
+com\OG\Views\VentanaC_Monohibrida.class
+com\OG\Controller\Main_Controlador.class
+com\OG\Views\VentanaC_Dihibridos.class
